@@ -1,0 +1,15 @@
+C:\Users\Moses\Desktop\Codecademy_DataScience\Advent_of_code_2022\Day1\bin\Debug\net7.0\day1.exe
+C:\Users\Moses\Desktop\Codecademy_DataScience\Advent_of_code_2022\Day1\bin\Debug\net7.0\day1.deps.json
+C:\Users\Moses\Desktop\Codecademy_DataScience\Advent_of_code_2022\Day1\bin\Debug\net7.0\day1.runtimeconfig.json
+C:\Users\Moses\Desktop\Codecademy_DataScience\Advent_of_code_2022\Day1\bin\Debug\net7.0\day1.dll
+C:\Users\Moses\Desktop\Codecademy_DataScience\Advent_of_code_2022\Day1\bin\Debug\net7.0\day1.pdb
+C:\Users\Moses\Desktop\Codecademy_DataScience\Advent_of_code_2022\Day1\obj\Debug\net7.0\day1.csproj.AssemblyReference.cache
+C:\Users\Moses\Desktop\Codecademy_DataScience\Advent_of_code_2022\Day1\obj\Debug\net7.0\day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moses\Desktop\Codecademy_DataScience\Advent_of_code_2022\Day1\obj\Debug\net7.0\day1.AssemblyInfoInputs.cache
+C:\Users\Moses\Desktop\Codecademy_DataScience\Advent_of_code_2022\Day1\obj\Debug\net7.0\day1.AssemblyInfo.cs
+C:\Users\Moses\Desktop\Codecademy_DataScience\Advent_of_code_2022\Day1\obj\Debug\net7.0\day1.csproj.CoreCompileInputs.cache
+C:\Users\Moses\Desktop\Codecademy_DataScience\Advent_of_code_2022\Day1\obj\Debug\net7.0\day1.dll
+C:\Users\Moses\Desktop\Codecademy_DataScience\Advent_of_code_2022\Day1\obj\Debug\net7.0\refint\day1.dll
+C:\Users\Moses\Desktop\Codecademy_DataScience\Advent_of_code_2022\Day1\obj\Debug\net7.0\day1.pdb
+C:\Users\Moses\Desktop\Codecademy_DataScience\Advent_of_code_2022\Day1\obj\Debug\net7.0\day1.genruntimeconfig.cache
+C:\Users\Moses\Desktop\Codecademy_DataScience\Advent_of_code_2022\Day1\obj\Debug\net7.0\ref\day1.dll
