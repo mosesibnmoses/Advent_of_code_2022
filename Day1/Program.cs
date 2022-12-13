@@ -2,22 +2,14 @@
 {
     private static int Main(string[] args)
     {
-        int counter = 0;
+        var calorie_counts_list=new List<int>();
         int cursum = 0;
-        int curmax = 0;
         foreach (string line in File.ReadLines("input.txt"))
         {
             if (line=="")
             {
-                if (cursum>curmax){
-                    curmax=cursum;
-                    cursum=0;
-                    counter++;
-                }
-                else{
-                    cursum=0;
-                    counter++;
-                }
+                calorie_counts_list.Add(cursum);
+                cursum=0;
             }
             else{
                 int int_line=Int32.Parse(line);
@@ -25,7 +17,10 @@
             }
             
         }
-        Console.Write(curmax);
-        return curmax;
+        calorie_counts_list.Sort();
+        calorie_counts_list.Reverse();
+        int top_3_sum= calorie_counts_list.Take(3).Sum();
+        Console.WriteLine(top_3_sum);
+        return top_3_sum;
     }
 }
